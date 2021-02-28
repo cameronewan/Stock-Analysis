@@ -14,3 +14,10 @@ Another part of the data that we can compare is the returns for the stocks we an
 <img width="292" alt="Screen Shot 2021-02-23 at 4 43 34 PM" src="https://user-images.githubusercontent.com/75695931/109437291-271a1780-79f2-11eb-8280-3a58af34aef0.png">
 <img width="306" alt="Screen Shot 2021-02-28 at 5 18 03 PM" src="https://user-images.githubusercontent.com/75695931/109437292-27b2ae00-79f2-11eb-8984-eaa0a7e89f21.png">
 
+## Summary
+### Advantages and disadvantages of refactoring code in general.
+Like anything else there are pros and cons to refactoring code. Some pros include, peer review, improving the code, and bug fixes all of which are importance steps in create a good clean code. Have someone else look at your code can always be beneficial because they might see something you do not. Also as we saw in our challenge for this week, if we can made our code run faster than we should. Cons, if you refactor code that does not need to be refactored you might end up causing more problems than you solve. This might end up with you creating bugs in the code. It can also be very time consuming if you are working with a long and messy code which is why refactoring should be done in the early stages.  
+
+### Advantages and disadvantages of the original and refactored VBA script.
+What was great about our original script is that it works, and it works well which is almost most important. We know that for the stock we wanted to analyze for Steve that it worked. However, one of the disadvantages was that it was not the fastest run time that we could get, and it was not looping through all the stocks. This is where our refactored code was better because not only did loop through all the stocks, but it did so in a quicker amount of time. One disadvantage that I ran into when refactoring my code was that there were many more bugs that I had to sort out as I went compared to our original code. This is exactly why refactoring working code may not always be the best idea. 
+
