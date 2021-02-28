@@ -10,7 +10,6 @@ If we were to compare our original code with our refactored code we wold see som
 ### Refactored
 <img width="784" alt="Screen Shot 2021-02-28 at 6 34 14 PM" src="https://user-images.githubusercontent.com/75695931/109437725-5b8ed300-79f4-11eb-811c-3cfb632faf7a.png">
 
-
 Another part of the data that we can compare is the returns for the stocks we analyzed. We can see that all but one of the stocks in 2017 (TERP) had positive returns. However, in 2018, all the stocks but two (ENPH & RUN) had negative returns suggesting that in 2018 the stock market was not as good to invest in as it was in 2017. 
 
 <img width="292" alt="Screen Shot 2021-02-23 at 4 43 34 PM" src="https://user-images.githubusercontent.com/75695931/109437291-271a1780-79f2-11eb-8280-3a58af34aef0.png">
